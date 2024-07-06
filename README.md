@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Gamal</h1>
 <h3 align="center">A passionate Software Engineer </h3>
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. 
+I'm a software developer who is passionate about creating technology 
+to elevate people and help new developers to find the right path. 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledgamalramadan&label=Profile%20views&color=0e75b6&style=flat" alt="khaledgamalramadan" /> </p>
 
 <p align="left"> <a href="https://x.com/Khaledb97914991" target="blank"><img
