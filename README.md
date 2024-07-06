@@ -14,9 +14,9 @@
 
 <!-- - 🔭 I’m currently working on **Obelaw Documentation** -->
 
-- 🌱 I’m currently learning **Design Patterns** and **LLMs**
+<!-- - 🌱 I’m currently learning **Design Patterns** and **LLMs**-->
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+<!-- - 👯 I’m looking to collaborate on **Open Source Projects**  -->
 
 - 📫 How to reach me **khaledgamal50016@gmail.com**
 
