@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledgamalramadan&label=Profile%20views&color=0e75b6&style=flat" alt="khaledgamalramadan" /> </p>
-
+I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. 
 <p align="left"> <a href="https://x.com/Khaledb97914991" target="blank"><img
       src="https://img.shields.io/twitter/follow/Khaledb97914991?logo=twitter&style=for-the-badge"
       alt="Khaledb97914991" /></a> </p>
